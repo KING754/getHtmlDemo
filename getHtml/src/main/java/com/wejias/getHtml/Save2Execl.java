@@ -10,8 +10,8 @@ import java.util.List;
 import org.apache.poi.ss.usermodel.Workbook;
 
 /**
- * Copyright © www.wejias.com/微信公众号:程序员伪架师
- * @author 师哥
+ * Copyright © www.wejias.com/微信公众号:迦识
+ * @author 戈寒
  *
  */
 public class Save2Execl {

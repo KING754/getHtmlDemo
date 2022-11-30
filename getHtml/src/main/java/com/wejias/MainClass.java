@@ -4,8 +4,8 @@ import com.wejias.getHtml.GetIndexHtml;
 import com.wejias.getHtml.Save2Execl;
 
 /**
- * Copyright © www.wejias.com/微信公众号:程序员伪架师
- * @author 师哥
+ * Copyright © www.wejias.com/微信公众号:迦识
+ * @author 戈寒
  *
  */
 public class MainClass {
