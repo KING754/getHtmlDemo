@@ -16,8 +16,8 @@ import us.codecraft.webmagic.selector.Selectable;
 
 
 /**
- * Copyright © www.wejias.com/微信公众号:程序员伪架师
- * @author 师哥
+ * Copyright © www.wejias.com/微信公众号:迦识
+ * @author 戈寒
  *
  */
 public class GetIndexHtml implements PageProcessor {
